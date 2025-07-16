@@ -1,3 +1,3 @@
-# Go ; ##GO
+# Go ; ## GO ;
 
 [google](https://chatgpt.com/)
