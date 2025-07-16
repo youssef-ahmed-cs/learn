@@ -1,3 +1,3 @@
 # Go
 
-[google] (https://chatgpt.com/)
+[google](https://chatgpt.com/)
